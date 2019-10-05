@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="ifc" value="if($EXPRESSION$){&#10;    $END$&#10;    return true;&#10;    }" description="if condition statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if ($EXPRESSION$) {&#10;    $END$&#10;    return true;&#10;} else {&#10;    return false;&#10;}" description="if else condition statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba75fb3c-f758-4df0-911c-2b5e15d15d35" name="castorhelper" url="http://ccbroadcaster">
+        <fileTransfer host="ccbroadcaster" port="2221">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="2221" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="56b44f78-e044-4874-9af7-77f1006a89f5" name="00.webhost" url="http://getstock.000webhost.com">
+        <fileTransfer host="files.000webhost.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" forceListCommand="true" keepAliveTimeout="0" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6843d230-800e-4306-98db-db14620bd606" name="deev" url="http://localhost">
+        <fileTransfer host="localhost" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

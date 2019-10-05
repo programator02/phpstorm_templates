@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="testsrt" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="limittorrentscpu" type="PLAIN_TEXT" />
+      <mapping pattern="status_cron" type="PLAIN_TEXT" />
+      <mapping pattern="shr" type="PLAIN_TEXT" />
+      <mapping pattern="transmission_restart" type="PLAIN_TEXT" />
+      <mapping pattern=".htpassword" type="PLAIN_TEXT" />
+      <mapping pattern="usagepercent" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="TSLint" />
+      <mapping ext="eot" type="TypeScript" />
+      <mapping ext="woff2" type="TypeScript" />
+      <mapping ext="ttf" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
