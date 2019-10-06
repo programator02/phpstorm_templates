@@ -11,4 +11,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="tce" value="try {&#10;    $END$&#10;} catch (Exception $ex) {&#10;    echo $ex-&gt;getMessage();&#10;}" description="try catch expression with exception" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
