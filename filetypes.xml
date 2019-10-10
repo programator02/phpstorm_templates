@@ -1,5 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="testsrt" type="PLAIN_TEXT" />
+      <mapping pattern="limittorrentscpu" type="PLAIN_TEXT" />
+      <mapping pattern="tokens git settings phpstorm pycharm" type="PLAIN_TEXT" />
+      <mapping pattern="shr" type="PLAIN_TEXT" />
+      <mapping pattern="transmission_restart" type="PLAIN_TEXT" />
+      <mapping pattern="status_cron" type="PLAIN_TEXT" />
+      <mapping pattern="usagepercent" type="PLAIN_TEXT" />
+      <mapping pattern=".htpassword" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="TypeScript" />
+      <mapping ext="woff2" type="TypeScript" />
+      <mapping ext="ttf" type="TypeScript" />
+      <mapping ext="dat" type="TSLint" />
+    </extensionMap>
   </component>
 </application>
