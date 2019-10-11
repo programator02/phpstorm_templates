@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2bf27e25-a4f5-4992-8e09-3e2ee5e7eb2a" name="magnetddwrt.mooo.com:83" url="http://magnetddwrt.mooo.com">
+        <fileTransfer host="magnetddwrt.mooo.com" port="83" rootFolder="/mnt/usb/pycode" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="83" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
