@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="eth0_stage" type="JSON" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="testsrt" type="PLAIN_TEXT" />
       <mapping pattern="limittorrentscpu" type="PLAIN_TEXT" />
