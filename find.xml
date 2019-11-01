@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\automation\class\chromecastPiConform.php [mediaserver]'" />
-    <option name="defaultScopeName" value="File '...\automation\class\chromecastPiConform.php [mediaserver]'" />
-    <option name="SEARCH_SCOPE" value="File '...\automation\class\chromecastPiConform.php [mediaserver]'" />
+    <option name="customScope" value="File '...\automation\gauges.php [mediaserver]'" />
+    <option name="defaultScopeName" value="File '...\automation\gauges.php [mediaserver]'" />
+    <option name="SEARCH_SCOPE" value="File '...\automation\gauges.php [mediaserver]'" />
   </component>
 </application>
